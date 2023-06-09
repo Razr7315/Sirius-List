@@ -1,3 +1,4 @@
+--[[ THIS IS CAUSIN ISSUE!!
 local ids = {
     142823291, -- MM2
     286090429, -- Arsenal
@@ -17,3 +18,5 @@ if string.find(str, game.PlaceId) then
 else
     loadstring(game:HttpGet('https://sirius.menu/script', true))()
 end
+]]--
+loadstring(game:HttpGet('https://sirius.menu/script', true))()
