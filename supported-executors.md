@@ -1,6 +1,8 @@
 # Sirius Supported Executors
 
 Here's a list of all supported executors for Sirius.
+Just because an executor is on this list, does not mean it is endorsed or recommended to use by Sirius. 
+Please do your own research before using anything here.
 
 ## Free
 
@@ -8,6 +10,10 @@ Here's a list of all supported executors for Sirius.
 
 
 • [Fluxus](https://fluxteam.net) (Fluxus is recommended post Hyperion's release. It works on UWP (Microsoft Store Version).)
+
+• [Valyse](https://valyse.net) (Valyse is recommended post Hyperion's release. It works on UWP (Microsoft Store Version).)
+
+• [Comet](https://cometrbx.xyz/) (Comet is recommended post Hyperion's release. It works on UWP (Microsoft Store Version).)
 
 ## Paid
 
