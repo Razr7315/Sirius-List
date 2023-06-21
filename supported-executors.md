@@ -1,7 +1,8 @@
 # Sirius Supported Executors
 
 Here's a list of all supported executors for Sirius.
-\n**Just because an executor is on this list, does not mean it is endorsed or recommended to use by Sirius. **
+
+**Just because an executor is on this list, does not mean it is endorsed or recommended to use by Sirius.**
 Please do your own research before using anything here.
 
 ## Free
