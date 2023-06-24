@@ -21,10 +21,6 @@ Please do your own research before using anything here.
 • [Synapse X](https://x.synapse.to)
 
 
-• Script-Ware [Windows](https://script-ware.com/w)/[Mac](https://script-ware.com/m)/[iOS](https://script-ware.com/ios)
-
-
-_Note: As of a new Sirius update, SW-iOS is completely incompatible with Sirius._
-
+• Script-Ware [Windows](https://script-ware.com/w)/[Mac](https://script-ware.com/m)/~~[iOS](https://script-ware.com/ios)~~
 
 • [Sirhurt](https://sirhurt.net)
