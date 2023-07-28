@@ -7,7 +7,7 @@ Please do your own research before using anything here.
 
 ## Free
 
-• [KRNL](https://krnl.tech)
+• [KRNL](https://krnl.place)
 
 
 • [Fluxus](https://fluxteam.net) (Fluxus is recommended post Hyperion's release. It works on UWP (Microsoft Store Version).)
