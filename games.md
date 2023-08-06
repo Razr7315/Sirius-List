@@ -2,12 +2,6 @@
 
 Here's a list of all supported games for Sirius.
 
-## Working
-
-• [Murder Mystery 2](https://www.roblox.com/games/142823291) - Last updated: Mar. 18, 2023
- 
-• [Tower of Hell](https://www.roblox.com/games/1962086868) - Last updated: Mar. 18, 2023
-
 ## Patched
 
 • [Bad Business](https://www.roblox.com/games/3233893879) - Last updated: Mar. 25, 2023
@@ -27,3 +21,7 @@ Here's a list of all supported games for Sirius.
 • [BHRM5](https://www.roblox.com/games/2916899287/Blackhawk-Rescue-Mission-5)
 
 • [Arsenal](https://www.roblox.com/games/286090429)
+
+• [Murder Mystery 2](https://www.roblox.com/games/142823291)
+ 
+• [Tower of Hell](https://www.roblox.com/games/1962086868)
