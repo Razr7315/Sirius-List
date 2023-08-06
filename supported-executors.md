@@ -1,4 +1,4 @@
-# Sirius Supported Executors
+# Supported Executors for Sirius
 
 Here's a list of all supported executors for Sirius.
 
