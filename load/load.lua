@@ -1,4 +1,6 @@
---[[ THIS IS CAUSIN ISSUE!!
+--[[
+Commented out until the new games release.
+
 local ids = {
     142823291, -- MM2
     286090429, -- Arsenal
@@ -11,12 +13,11 @@ local ids = {
     3527629287 -- BP
 }
 
-local str = table.concat(ids, ",")
-
-if string.find(str, game.PlaceId) then
+if table.find(ids, game.PlaceId) then
     loadstring(game:HttpGet("https://sirius.menu/loader", true))()
 else
     loadstring(game:HttpGet('https://sirius.menu/script', true))()
 end
 ]]--
+
 loadstring(game:HttpGet('https://sirius.menu/script', true))()
