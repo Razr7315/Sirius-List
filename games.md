@@ -1,4 +1,4 @@
-# Sirius Supported Games
+# Supported Games for Sirius
 
 Here's a list of all supported games for Sirius.
 
