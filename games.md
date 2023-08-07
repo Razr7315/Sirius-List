@@ -8,6 +8,8 @@ Here's a list of all supported games for Sirius.
  
 • [Tower of Hell](https://www.roblox.com/games/1962086868) - Last updated: Jul. 30, 2023
 
+• [Phantom Forces](https://www.roblox.com/games/292439477) - Last updated: Aug. 8, 2023
+
 ## Patched
 
 • [Bad Business](https://www.roblox.com/games/3233893879) - Last updated: Mar. 25, 2023
@@ -16,7 +18,6 @@ Here's a list of all supported games for Sirius.
 
 • [Doors](https://www.roblox.com/games/6516141723)
 
-• [Phantom Forces](https://www.roblox.com/games/292439477)
 
 • [Breaking Point](https://www.roblox.com/games/648362523/Breaking-Point)
 
