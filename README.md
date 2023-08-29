@@ -1,3 +1,3 @@
-# Sirius-List
+# Moved
 
-Information repository for Sirius. Includes [game list](/games.md), [supported executor list](/supported-executors.md) and an [error list](/errors.md).
+https://github.com/SiriusSoftwareLtd/Compatibility-List/
