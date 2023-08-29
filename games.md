@@ -1,3 +1,3 @@
 # Moved
 
-https://github.com/SiriusSoftwareLtd/Compatibility-List/blob/main/games.md
+https://github.com/SiriusSoftwareLtd/Compatibility/blob/main/games.md
