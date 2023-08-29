@@ -1,3 +1,3 @@
 # Moved
 
-https://github.com/SiriusSoftwareLtd/Compatibility-List/
+https://github.com/SiriusSoftwareLtd/Compatibility/
